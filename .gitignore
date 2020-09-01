@@ -1,0 +1,6 @@
+.idea
+.vscode
+.DS_Store
+.prettierrc.js
+node_modules
+assets
