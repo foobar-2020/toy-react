@@ -4,3 +4,4 @@
 .prettierrc.js
 node_modules
 assets
+dist/main.js
